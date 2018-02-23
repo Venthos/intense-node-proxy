@@ -74,8 +74,12 @@ Please check the [wiki](https://github.com/Venthos/intense-node-proxy/wiki/confi
 
 ## Developer Donations
 
-The proxy is pre-configured for a 1% donation to its original developer ([Snipa22](https://github.com/Snipa22)). This is easily toggled inside of it's configuration. If you'd like to make a one time donation, the addresses are as follows:
+The proxy is pre-configured for a 1% donation to ([Venthos](https://github.com/Venthos)) when mining ITNS, and to its original developer ([Snipa22](https://github.com/Snipa22)) when mining coins supported by the original repo. This is easily toggled inside of it's configuration. If you'd like to make a one time donation, the addresses are as follows:
 
+Venthos
+* ITNS - iz5imhe9C7vWnjZtZBFtT8MwNxVuJuryUUHXSAtnWUo93CJzNdZBizHQExPRCHUBi36tk2BcigPAFRDA4cnddGXF1R6j69n3w
+
+Snipa22
 * XMR - 44Ldv5GQQhP7K7t3ZBdZjkPA7Kg7dhHwk3ZM3RJqxxrecENSFx27Vq14NAMAd2HBvwEPUVVvydPRLcC69JCZDHLT2X5a4gr
 * BTC - 15fkPTtN8cRXD3moKWDoXjuiTaS9FgA3UE
 
