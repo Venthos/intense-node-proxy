@@ -39,6 +39,6 @@
     "forknote-util": "git://github.com/wallet42/node-forknote-util.git",
     "cryptonote-util": "git://github.com/Snipa22/node-cryptonote-util.git#xmr-Nan-2.0",
     "intensecoin-util": "git://github.com/valiant1x/node-cryptonote-util.git#xmr-Nan-2.0",
-    "multi-hashing": "git+https://github.com/Snipa22/node-multi-hashing-aesni.git"
+    "cryptonight-hashing": "git://github.com/Venthos/node-cryptonight-hashing.git"
   }
 }
